@@ -141,7 +141,7 @@ body {
 .container .card .content {
     padding: 20px;
     text-align: center;
-    transform: translateY(25px);
+    transform: translateY(55px);
     transition: .7s;
 }
 
