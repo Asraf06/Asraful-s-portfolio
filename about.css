@@ -146,7 +146,7 @@ body {
 }
 
 .container .card:hover .content {
-    transform: translateY(0px);
+    transform: translateY(5px);
 }
 
 .container .card .content h3 {
